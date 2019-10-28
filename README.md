@@ -33,7 +33,7 @@ $ gem install bundler
 
 
 ### Instalando as gems ###
-Execute o seguinte comando dentro da de cada projeto:
+Execute o seguinte comando dentro da pasta de cada projeto:
 ```shell
 $ bundle install
 ```
