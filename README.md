@@ -9,7 +9,7 @@ Repositório destinado à resolução de desafios da Inmetrics.
 ```
 Ruby 
 
-Navegador Firefix
+Navegador Firefox
 
 Git
 ```
