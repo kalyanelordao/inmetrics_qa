@@ -27,26 +27,26 @@ gem install bundler
 ```
 
 ```shell
-cd /swapiFilms-rest
-gem install bundler
+$ cd /swapiFilms-rest
+$ gem install bundler
 ```
 
 
 ### Instalando as gems ###
 Execute o seguinte comando dentro da de cada projeto:
 ```shell
-bundle install
+$ bundle install
 ```
 
 
 ### Executando os testes ###
 Execute o seguinte comando dentro do projeto:
 ```shell
-cd /swapiFilms-rest
-cucumber 
+$ cd /swapiFilms-rest
+$ cucumber 
 ```
 
 ```shell
-cd /taskit_web
-cucumber 
+$ cd /taskit_web
+$ cucumber 
 ```
