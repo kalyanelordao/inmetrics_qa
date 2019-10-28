@@ -6,13 +6,18 @@ Repositório destinado à resolução de desafios da Inmetrics.
 
 
 ###  Pré-requisitos ### 
+```
 Ruby 
+
 Navegador Firefix
+
 Git
+```
 
 ### Clonar o projeto ###
 ```shell
 $ git clone https://github.com/kalyanelordao/inmetrics_qa.git
+```
 
 ### Instalar o bundler ###
 Navegar dentro do projeto e instalar o bundler
@@ -32,6 +37,7 @@ Execute o seguinte comando dentro da de cada projeto:
 ```shell
 bundle install
 ```
+
 
 ### Executando os testes ###
 Execute o seguinte comando dentro do projeto:
